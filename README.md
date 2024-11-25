@@ -1,0 +1,1 @@
+Notification page with functionality, tpl + selenium is used
